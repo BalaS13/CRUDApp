@@ -9,7 +9,7 @@ public class Utility {
 	}
 	
 	public void m1() {
-		System.out.println("Utility method m1()");
+		System.out.println("Utility method m1(): 1234");
 	}
 
 }
